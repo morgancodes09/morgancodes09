@@ -1,67 +1,72 @@
 <div align="center">
-<!-- GOKU HERO: animated GIF banner -->
-<img src="./goku-hero.gif" alt="Abhay Singh — Full Stack Developer and AI/ML Enthusiast" width="100%" />
-<br />
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=FF7A1A&center=true&vCenter=true&width=700&lines=Turning+ideas+into+code;Building+projects+that+solve+real+problems;Learning+DSA+and+AI%2FML;Keep+coding%2C+keep+growing!" alt="Typing animation" />
-<br />
-<a href="https://github.com/morgancodes09"><img src="https://img.shields.io/badge/GitHub-morgancodes09-111827?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=morgancodes09&style=for-the-badge&color=ff7a1a&label=PROFILE+VIEWS" alt="Profile views" />
-</div>
----
-🟠 My Saiyan Way | About Me
-🎓 B.Tech student in Computer Science & IT at KIET Group of Institutions.
-💻 Interested in Full Stack Development, software engineering and problem solving.
-🤖 Exploring Artificial Intelligence, Machine Learning and Deep Learning.
-🧠 Practising Data Structures & Algorithms and improving my coding skills.
-🚀 I enjoy building practical projects and learning new technologies.
-🎯 Goal: become a skilled software engineer and build useful, scalable products.
-⭐ Beyond Code | Interests
-🏏 Cricket & badminton
-🎮 Gaming
-🎌 Anime — especially Dragon Ball
-💪 Fitness and gym
-⚡ Jutsu Arsenal | Tech Stack
-<div align="center">
-Programming
-<img src="https://skillicons.dev/icons?i=cpp,python,java,dart,js" alt="C++, Python, Java, Dart and JavaScript" />
-Frontend & App Development
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,flutter" alt="HTML, CSS, Bootstrap, React and Flutter" />
-AI / ML & Data
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" alt="Python, TensorFlow and scikit-learn" />
-Tools, Cloud & Databases
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,aws,mysql,mongodb" alt="Git, GitHub, VS Code, Linux, AWS, MySQL and MongoDB" />
-</div>
-🪪 Saiyan ID Card
-	
-GitHub	@morgancodes09
-Education	B.Tech — Computer Science & IT
-Institution	KIET Group of Institutions, Ghaziabad
-Interests	Full Stack · AI/ML · DSA · Cloud
-Currently learning	DSA, Deep Learning and software development
-🐉 Featured Projects | S-Rank Missions
-Project	Description	Tech / Focus
-Hospital Readmission Prediction	ML-based prediction of patient readmission risk	Python, ML, Random Forest, XGBoost, ANN
-SkyPulse	AI-powered weather application	Flutter, Dart, APIs
-Smart Student Organizer	Student productivity app for tasks, schedules and notes	Flutter
-IoT Blind Stick	Assistive technology prototype using sensors	IoT, Sensors
-Fitness Gym Web App	Gym and fitness management website	HTML, CSS, JavaScript
-> Add each project's GitHub repository link to its name once the project repository is public.
-📊 GitHub Dashboard
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=morgancodes09&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff7a1a&icon_color=ff7a1a&text_color=c9d1d9" alt="Abhay's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morgancodes09&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff7a1a&text_color=c9d1d9" alt="Most used languages" />
-<img width="70%" src="https://streak-stats.demolab.com?user=morgancodes09&theme=dark&hide_border=true&background=0D1117&ring=FF7A1A&fire=FF7A1A&currStreakLabel=FF7A1A" alt="GitHub streak" />
-</div>
-🌌 My Contribution Village
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=morgancodes09&bg_color=0d1117&color=ff7a1a&line=ff7a1a&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-</div>
-🔥 Let's Connect
-<div align="center">
-<a href="https://github.com/morgancodes09"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
+<!-- ⚡ HERO -->
+<img src="./hero.svg?v=4" alt="Abhay Singh — animated Goku character, CSIT student and aspiring software developer" width="100%"/>
 
+<br/><br/>
 
-<img src="./goku-red-aura-animated.gif" width="115" alt="Goku with an animated aura" />
-KEEP CODING · KEEP GROWING · KAMEHAMEHA! ⚡
+<img src="./goku-dance.gif?v=1" alt="Chibi Goku, Vegeta and Gohan dancing" width="260"/>
+
+<br/>
+
+<!-- 🟠 SAIYAN WAY -->
+<img src="./saiyan-way.svg?v=1" alt="The Saiyan Way — what I build" width="100%"/>
+
+<br/><br/>
+
+<!-- 💥 TECHNIQUES I MASTER -->
+<img src="./techniques-stack.svg?v=1" alt="Techniques I Master — technology stack" width="100%"/>
+
+<br/><br/>
+
+<!-- 🪪 Z-FIGHTER REGISTRATION + POWER LEVEL DASHBOARD -->
+<img src="./zfighter-id.svg?v=1" alt="Abhay's Z-Fighter registration and power level dashboard" width="100%"/>
+
+<br/><br/>
+
+</div>
+
+## 🐉 Saiyan Saga Missions
+
+| Mission | What it is | Techniques used | Repository |
+|---|---|---|---|
+| **Hospital Readmission Prediction** | Predicting hospital readmission using machine learning models | Python, Logistic Regression, Random Forest, XGBoost, ANN | [Find on GitHub](https://github.com/morgancodes09?tab=repositories) |
+| **SkyPulse — AI-Powered Weather App** | Weather application built with a Flutter interface | Flutter, Dart | [Find on GitHub](https://github.com/morgancodes09?tab=repositories) |
+| **IoT-Based Blind Stick** | Sensor-based assistive navigation prototype | IoT, Sensors | [Find on GitHub](https://github.com/morgancodes09?tab=repositories) |
+| **Fitness Gym Web App** | A gym website interface | HTML, CSS | [Find on GitHub](https://github.com/morgancodes09?tab=repositories) |
+| **Sustainable Light Management** | Project focused on smarter, sustainable lighting | Project technologies to be added | [Find on GitHub](https://github.com/morgancodes09?tab=repositories) |
+
+<div align="center">
+
+<a href="https://github.com/morgancodes09?tab=repositories"><b>→ Explore my GitHub repositories</b></a>
+
+<sub>Dashboard counts are profile facts (5 listed projects, 5th semester, 5 programming languages and 16 listed tools/technologies), not live GitHub API statistics.</sub>
+
+<br/><br/>
+
+<img src="./goku-kamehameha-run.gif?v=1" alt="Chibi Goku running with a Kamehameha" width="170"/>
+
+### 🌌 Planet Namek Skyline
+
+*Every contribution lights up another part of the city — rebuilt automatically every day.*
+
+<img src="./profile-3d-contrib/profile-night-view.svg?v=1" alt="3D contribution skyline of Planet Namek" width="100%"/>
+
+<br/><br/>
+
+<!-- ✨ CONNECT -->
+<img src="./connect.svg?v=1" alt="Connect with Abhay" width="100%"/>
+
+<a href="https://github.com/morgancodes09"><img src="https://img.shields.io/badge/GitHub-FF7A00?style=for-the-badge&logo=github&logoColor=0B0F1A" alt="GitHub"/></a>
+
+<sub>Email and social links are intentionally left editable; add only public URLs in <code>SETUP.md</code> and <code>connect.svg</code>.</sub>
+
+<br/><br/>
+
+<img src="./goku-walk.gif?v=1" alt="Chibi Goku walking" width="100"/>
+
+**Hobbies:** Cricket · Badminton · Gaming · Anime · Video Editing
+
+**Kamehameha your bugs. Keep coding, keep growing.** 🟠
+
 </div>
