@@ -26,21 +26,17 @@
 
 </div>
 
-## 🐉 Saiyan Saga Missions
-
-| Mission | What it is | Techniques used | Repository |
-|---|---|---|---|
-| **Hospital Readmission Prediction** | Predicting hospital readmission using machine learning models | Python, Logistic Regression, Random Forest, XGBoost, ANN | [Find on GitHub](https://github.com/morgancodes09?tab=repositories) |
-| **SkyPulse — AI-Powered Weather App** | Weather application built with a Flutter interface | Flutter, Dart | [Find on GitHub](https://github.com/morgancodes09?tab=repositories) |
-| **IoT-Based Blind Stick** | Sensor-based assistive navigation prototype | IoT, Sensors | [Find on GitHub](https://github.com/morgancodes09?tab=repositories) |
-| **Fitness Gym Web App** | A gym website interface | HTML, CSS | [Find on GitHub](https://github.com/morgancodes09?tab=repositories) |
-| **Sustainable Light Management** | Project focused on smarter, sustainable lighting | Project technologies to be added | [Find on GitHub](https://github.com/morgancodes09?tab=repositories) |
-
 <div align="center">
 
-<a href="https://github.com/morgancodes09?tab=repositories"><b>→ Explore my GitHub repositories</b></a>
+<img src="./projects-showcase.svg?v=2" alt="Saiyan Saga Missions — five featured projects" width="100%"/>
 
-<sub>Dashboard counts are profile facts (5 listed projects, 5th semester, 5 programming languages and 16 listed tools/technologies), not live GitHub API statistics.</sub>
+<a href="https://github.com/morgancodes09?tab=repositories"><b>⚡ Explore all repositories on GitHub →</b></a>
+
+<sub>Project cards summarize the work and technologies currently known. Individual repository links can be added once the exact repository URLs are confirmed.</sub>
+
+<a href="https://github.com/morgancodes09?tab=repositories"><b>→ Explore all repositories</b></a>
+
+<sub>Dashboard counts are profile facts, not live GitHub API statistics.</sub>
 
 <br/><br/>
 
