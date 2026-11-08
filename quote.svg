@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Gojo Satoru quote banner with glowing Six Eyes">
+<defs><linearGradient id="bg"><stop stop-color="#0E1233"/><stop offset="1" stop-color="#090D22"/></linearGradient><linearGradient id="edge"><stop stop-color="#4CC9FF"/><stop offset=".55" stop-color="#A78BFA"/><stop offset="1" stop-color="#FFD45E"/></linearGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#9FD8FF" opacity=".15"/></pattern>
+<radialGradient id="eye"><stop stop-color="#FFFFFF"/><stop offset=".35" stop-color="#9FE5FF"/><stop offset="1" stop-color="#4CC9FF" stop-opacity="0"/></radialGradient></defs>
+<rect x="2" y="2" width="1196" height="166" rx="26" fill="url(#bg)" stroke="url(#edge)" stroke-width="2"/><rect x="3" y="3" width="1194" height="164" rx="25" fill="url(#dots)"/>
+<g><circle cx="110" cy="85" r="34" fill="url(#eye)"><animate attributeName="r" values="30;40;30" dur="3s" repeatCount="indefinite"/></circle><circle cx="110" cy="85" r="13" fill="#E8F8FF"/><circle cx="110" cy="85" r="5" fill="#0A0E24"/>
+<circle cx="110" cy="85" r="52" fill="none" stroke="#4CC9FF" stroke-opacity=".45" stroke-dasharray="6 9"><animateTransform attributeName="transform" type="rotate" from="0 110 85" to="360 110 85" dur="18s" repeatCount="indefinite"/></circle></g>
+<text x="200" y="62" fill="#4CC9FF" font-family="monospace" font-size="13" font-weight="700" letter-spacing="2">06 / THE HONOURED ONE</text>
+<text x="200" y="104" fill="#F2F8FF" font-family="Arial,sans-serif" font-size="29" font-weight="800">“Throughout heaven and earth, I alone am the honoured one.”</text>
+<text x="200" y="136" fill="#A9C4FF" font-family="Arial,sans-serif" font-size="16" font-weight="700">— Gojo Satoru  ·  Code · Learn · Create · Grow</text>
+</svg>

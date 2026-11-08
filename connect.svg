@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="160" viewBox="0 0 760 160">
+<defs><linearGradient id="bg"><stop stop-color="#0E1233"/><stop offset="1" stop-color="#090D22"/></linearGradient><linearGradient id="edge"><stop stop-color="#4CC9FF"/><stop offset=".55" stop-color="#A78BFA"/><stop offset="1" stop-color="#FFD45E"/></linearGradient><pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#9FD8FF" opacity=".17"/></pattern></defs>
+<rect x="2" y="2" width="756" height="156" rx="22" fill="url(#bg)" stroke="url(#edge)" stroke-width="2"/><rect x="3" y="3" width="754" height="154" rx="20" fill="url(#dots)"/>
+<text x="30" y="38" fill="#4CC9FF" font-family="monospace" font-size="13" font-weight="700" letter-spacing="2">05 / JOIN THE SORCERERS</text>
+<text x="30" y="88" fill="#F2F8FF" font-family="Arial,sans-serif" font-size="34" font-weight="700">Let’s build something legendary.</text>
+<text x="30" y="124" fill="#A9C4FF" font-family="Arial,sans-serif" font-size="18" font-weight="700">Projects · Collaboration · Ideas · Technology</text>
+</svg>
