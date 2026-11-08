@@ -6,7 +6,7 @@
 - `gojo-hero-motion.gif` — animated hero where **Abhay Singh types in** while Gojo moves. `gojo-pointing.gif` and `gojo-chibi.png` are supporting character art.
 - `about.svg`, `skills.svg`, `dashboard.svg`, `missions.svg`, `connect.svg` — custom blue / violet / gold panels. The dashboard ID swings from a lanyard; the about artwork floats.
 - `01-…` to `05-…` `.svg` — one clickable illustrated card per project.
-- `hobbies.svg` (animated hobby cards), `quote.svg` (Six Eyes quote banner), `typing-intro.gif`, plus themed GitHub stats, views counter and a Gojo-coloured contribution snake.
+- `hobbies.svg` (animated hobby cards), `quote.svg` (Six Eyes quote banner), `typing-intro.gif`, plus self-generated GitHub stats cards (`scripts/gojo_stats.py` + `profile-stats/`), views counter and a Gojo-coloured contribution snake.
 - `.github/workflows/profile-3d.yml` — scheduled 3D contribution skyline workflow.
 - `profile-3d-contrib/` — contribution skyline SVG (placeholder until the workflow runs).
 - `PROJECT-INVENTORY.md` — project list and a copy-ready card template.
